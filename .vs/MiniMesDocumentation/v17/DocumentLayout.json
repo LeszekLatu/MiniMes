@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D8FC6-EA94-4B35-8D1E-07317C28F2C7}|MiniMesDocumentation.Infrastructure\\MiniMesDocumentation.Infrastructure.csproj|c:\\users\\pedof\\onedrive\\pulpit\\zadania_praktyki\\projektminimes\\minimesdocumentation.infrastructure\\minimesdocumentationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D8FC6-EA94-4B35-8D1E-07317C28F2C7}|MiniMesDocumentation.Infrastructure\\MiniMesDocumentation.Infrastructure.csproj|solutionrelative:minimesdocumentation.infrastructure\\minimesdocumentationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D8FC6-EA94-4B35-8D1E-07317C28F2C7}|MiniMesDocumentation.Infrastructure\\MiniMesDocumentation.Infrastructure.csproj|c:\\users\\pedof\\onedrive\\pulpit\\zadania_praktyki\\projektminimes\\minimesdocumentation.infrastructure\\repositories\\orderrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D8FC6-EA94-4B35-8D1E-07317C28F2C7}|MiniMesDocumentation.Infrastructure\\MiniMesDocumentation.Infrastructure.csproj|solutionrelative:minimesdocumentation.infrastructure\\repositories\\orderrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B55726D-2A71-4CAC-8041-9E4CCE391E99}|MiniMesDocumentation.Presentation\\MiniMesDocumentation.Presentation.csproj|c:\\users\\pedof\\onedrive\\pulpit\\zadania_praktyki\\projektminimes\\minimesdocumentation.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B55726D-2A71-4CAC-8041-9E4CCE391E99}|MiniMesDocumentation.Presentation\\MiniMesDocumentation.Presentation.csproj|solutionrelative:minimesdocumentation.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E824E-92D1-48A7-ACA9-87FE9CAE1D28}|MiniMesDocumentation.Application\\MiniMesDocumentation.Application.csproj|c:\\users\\pedof\\onedrive\\pulpit\\zadania_praktyki\\projektminimes\\minimesdocumentation.application\\contracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E824E-92D1-48A7-ACA9-87FE9CAE1D28}|MiniMesDocumentation.Application\\MiniMesDocumentation.Application.csproj|solutionrelative:minimesdocumentation.application\\contracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0939BB3-224E-4C84-8BE2-DB39F3B099C1}|MiniMesDocumentation.Domain\\MiniMesDocumentation.Domain.csproj|c:\\users\\pedof\\onedrive\\pulpit\\zadania_praktyki\\projektminimes\\minimesdocumentation.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0939BB3-224E-4C84-8BE2-DB39F3B099C1}|MiniMesDocumentation.Domain\\MiniMesDocumentation.Domain.csproj|solutionrelative:minimesdocumentation.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniMesDocumentationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Infrastructure\\MiniMesDocumentationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniMesDocumentation.Infrastructure\\MiniMesDocumentationDbContext.cs",
+              "ToolTip": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Infrastructure\\MiniMesDocumentationDbContext.cs",
+              "RelativeToolTip": "MiniMesDocumentation.Infrastructure\\MiniMesDocumentationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:12:44.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Presentation\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MiniMesDocumentation.Presentation\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Presentation\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MiniMesDocumentation.Presentation\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:12:09.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepositoty.cs",
+              "DocumentMoniker": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Infrastructure\\Repositories\\OrderRepositoty.cs",
+              "RelativeDocumentMoniker": "MiniMesDocumentation.Infrastructure\\Repositories\\OrderRepositoty.cs",
+              "ToolTip": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Infrastructure\\Repositories\\OrderRepositoty.cs",
+              "RelativeToolTip": "MiniMesDocumentation.Infrastructure\\Repositories\\OrderRepositoty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:12:07.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Application\\Contracts\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MiniMesDocumentation.Application\\Contracts\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Application\\Contracts\\IOrderRepository.cs",
+              "RelativeToolTip": "MiniMesDocumentation.Application\\Contracts\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:12:06.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MiniMesDocumentation.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\pedof\\OneDrive\\Pulpit\\zadania_praktyki\\ProjektMiniMes\\MiniMesDocumentation.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MiniMesDocumentation.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:12:04.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

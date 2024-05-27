@@ -1,0 +1,15 @@
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\bin\Debug\net8.0\MiniMesDocumentation.Domain.deps.json
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\bin\Debug\net8.0\MiniMesDocumentation.Domain.runtimeconfig.json
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\bin\Debug\net8.0\MiniMesDocumentation.Domain.dll
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\bin\Debug\net8.0\MiniMesDocumentation.Domain.pdb
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.csproj.AssemblyReference.cache
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.AssemblyInfoInputs.cache
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.AssemblyInfo.cs
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.dll
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\refint\MiniMesDocumentation.Domain.dll
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.pdb
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.genruntimeconfig.cache
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\ref\MiniMesDocumentation.Domain.dll
+C:\Users\pedof\OneDrive\Pulpit\zadania_praktyki\ProjektMiniMes\MiniMesDocumentation.Domain\obj\Debug\net8.0\MiniMesDocumentation.Domain.sourcelink.json
